@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "sample-clean-go/routers"
+	_ "sample-clean-go/interfaces/routers"
 
 	"github.com/astaxie/beego"
 )
