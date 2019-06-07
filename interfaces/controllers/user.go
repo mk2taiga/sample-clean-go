@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"encoding/json"
-	"sample-clean-go/models"
+	"sample-clean-go/interfaces/models"
 
 	"github.com/astaxie/beego"
 )
