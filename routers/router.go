@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"sample-clean-go/controllers"
+	"sample-clean-go/interfaces/controllers"
 
 	"github.com/astaxie/beego"
 )
